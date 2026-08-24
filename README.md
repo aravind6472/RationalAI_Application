@@ -1,9 +1,9 @@
 # Economic Connectedness & Intergenerational Mobility: A Bayesian Hierarchical Analysis
 
-A Bayesian analysis of how **economic connectedness (EC)** — the degree to
-which low- and high-income people are friends within a county — relates to
-**intergenerational mobility (IM)** — how much a child's adult income is
-determined by their parents' income — across ~3,000 U.S. counties nested
+A Bayesian analysis of how **economic connectedness (EC)**: the degree to
+which low and high-income people are friends within a county, relates to
+**intergenerational mobility (IM)**: how much a child's adult income is
+determined by their parents' income, across approximately 3,000 U.S. counties nested
 within states.
 
 The core methodological point: counties are grouped within states, so
@@ -27,7 +27,7 @@ strength from the overall trend.
 
 ## Findings
 
-- The EC–IM relationship is **positive** under both models — higher
+- The EC–IM relationship is **positive** under both models - higher
   connectedness is associated with higher upward mobility. The pooled model
   estimates a slope 95% credible interval of **(0.237, 0.253)**.
 - Roughly **60% of IM variation is between states**, which justifies the
