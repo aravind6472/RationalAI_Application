@@ -125,7 +125,3 @@ MCMC sampling.
 - Inference is at the county level and does not transfer to individuals.
 - EC is derived from a constrained Facebook-based sample, so it under-covers
   people who don't use the platform.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
